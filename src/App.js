@@ -1,4 +1,4 @@
-import Test from "./components/test"
+import NodeAnimation from "./components/node_animation"
 import Card from "./components/card"
 
 export default function Main() {
@@ -8,7 +8,8 @@ export default function Main() {
         test
       </div>
       <div>
-        <Test />
+        <NodeAnimation />
+
       </div>
       <div>
         <Card />

@@ -9,20 +9,35 @@
   --card-width: calc(var(--card-height) * 1.5);
 }
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 
 body {
   min-height: 100vh;
-  background: #212534;
+  background: #271e4b;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
   box-sizing: border-box;
 }
 
-.test {
+.networkHeader {
+  height: 5vh;
+  display: flex;
+  justify-content:center;
+}
+
+.networkHeaderContent {
+  width: 78%;
+  color: #fff;
+  font-size: 2rem;
+}
+
+.cardMain {
   display: flex;
   justify-content:center;
 }

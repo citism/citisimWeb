@@ -1,0 +1,12 @@
+1. color-hex 
+
+https://www.color-hex.com/color-palette/879
+https://www.color-hex.com/color/738678
+
+
+2. what is validator?
+
+A validator node is a special type of full node that participates in “consensus.” By participating in consensus, 
+validator nodes become responsible for verifying, voting on, and maintaining a record of transactions
+
+3. node validator

@@ -3,10 +3,17 @@ import "./card.css"
 
 export default function Card() {
   return (
-    <div class="test">
-      <div class="card">
-        Magic Card
+    <>
+      <div class="networkHeader">
+        <div class="networkHeaderContent">
+          Network
+        </div>
       </div>
-    </div>
+      <div class="cardMain">
+        <div class="card">
+          Magic Card
+        </div>
+      </div>
+    </>
   )
 }
