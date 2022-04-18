@@ -1,3 +1,7 @@
+[![Actions Status: Node.js CI](https://github.com/citismTeam/citisimWeb/workflows/Node.js%20CI/badge.svg)](https://github.com/citismTeam/citisimWeb/actions?query=workflow%3A"Node.js+CI")
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
