@@ -1,0 +1,69 @@
+/* @import "compass/css3"; */
+
+/* .bg_animation {
+  background: linear-gradient(-45deg, #222222, #2d2d2d, #242424, #16386c);
+  background-repeat: no-repeat;
+  background-size: 400% 400%;
+  position: relative;
+  animation: backgroundChange 10s ease-in-out infinite;
+  display: flex;
+}
+
+@keyframes backgroundChange {
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+} */
+.bg_animation {
+  background-color: #1c1c1c;
+}
+
+.title_left {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 40%;
+  height: 70%;
+  margin: 10px;
+}
+
+.title_right {
+  width: 30%;
+  height: 70%;
+  /* background-color: #412eb5; */
+}
+
+.title {
+  color: white;
+  font-size: 6vh;
+  margin-bottom: 2vh;
+}
+
+.btn_primary {
+  font-size: 1.5vw;
+  background-color: #1c41e7;
+  border-radius: 10px;
+  margin-top: 10vh;
+  margin-right: 1vw;
+  padding: 7px 10px 7px 10px;
+  width: 9vw;
+  height: 6vh;
+  font-weight: 300;
+}
+
+.btn_secondary {
+  font-size: 1.5vw;
+  border: 2px solid #1c41e7;
+  border-radius: 10px;
+  margin-top: 10vh;
+  margin-right: 1vw;
+  padding: 7px 10px 7px 10px;
+  width: 9vw;
+  height: 6vh;
+}
