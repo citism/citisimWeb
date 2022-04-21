@@ -1,0 +1,24 @@
+.validator_left {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 35%;
+  height: 70%;
+  margin: 10px;
+}
+
+.validator_right {
+  width: 35%;
+  height: 70%;
+  margin-right: 5vw;
+}
+
+.validator_title {
+  margin-bottom: 2vh;
+  font-size: 7vh;
+  font-weight: 600;
+}
+
+.title_acc {
+  color: #1c41e7;
+}

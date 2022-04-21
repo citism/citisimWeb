@@ -14,10 +14,9 @@
   padding: 0;
 }
 
-
 body {
   min-height: 100vh;
-  background: #271e4b;
+  background: #222222;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -28,7 +27,7 @@ body {
 .networkHeader {
   height: 5vh;
   display: flex;
-  justify-content:center;
+  justify-content: center;
 }
 
 .networkHeaderContent {
@@ -39,7 +38,7 @@ body {
 
 .cardMain {
   display: flex;
-  justify-content:center;
+  justify-content: center;
 }
 
 .card {
@@ -62,11 +61,11 @@ body {
   color: rgb(88 199 250 / 100%);
   transition: clor 1s;
 }
-.card:hover:before, .card:hover:after {
+.card:hover:before,
+.card:hover:after {
   animation: none;
   opacity: 0;
 }
-
 
 .card::before {
   content: "";
@@ -74,13 +73,16 @@ body {
   height: 102%;
   border-radius: 8px;
   background-image: linear-gradient(
-    var(--rotate)
-    , #5ddcff, #3c67e3 43%, #4e00c2);
-    position: absolute;
-    z-index: -1;
-    top: -1%;
-    left: -1%;
-    animation: spin 2.5s linear infinite;
+    var(--rotate),
+    #5ddcff,
+    #3c67e3 43%,
+    #4e00c2
+  );
+  position: absolute;
+  z-index: -1;
+  top: -1%;
+  left: -1%;
+  animation: spin 2.5s linear infinite;
 }
 
 .card::after {
@@ -96,10 +98,13 @@ body {
   transform: scale(0.8);
   filter: blur(calc(var(--card-height) / 6));
   background-image: linear-gradient(
-    var(--rotate)
-    , #5ddcff, #3c67e3 43%, #4e00c2);
-    opacity: 1;
-  transition: opacity .5s;
+    var(--rotate),
+    #5ddcff,
+    #3c67e3 43%,
+    #4e00c2
+  );
+  opacity: 1;
+  transition: opacity 0.5s;
   animation: spin 2.5s linear infinite;
 }
 
