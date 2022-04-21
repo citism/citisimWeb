@@ -21,8 +21,30 @@ export default function Title() {
             Varify transaction with citism!
           </div>
           <div>
-            <button className="btn_primary">Validator</button>
-            <button className="btn_secondary">Github</button>
+            <motion.button
+              whileTap={{ scale: 0.9 }}
+              whileHover={{
+                scale: 1.1,
+                transition: {
+                  duration: 0.2,
+                },
+              }}
+              className="btn_primary"
+            >
+              Validator
+            </motion.button>
+            <motion.button
+              whileTap={{ scale: 0.9 }}
+              whileHover={{
+                scale: 1.1,
+                transition: {
+                  duration: 0.2,
+                },
+              }}
+              className="btn_secondary"
+            >
+              Github
+            </motion.button>
           </div>
         </div>
         <div className="title_right"></div>

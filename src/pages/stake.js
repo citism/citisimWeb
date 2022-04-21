@@ -8,22 +8,28 @@ export default function Title() {
   return (
     <>
       <div className="stake_container">
-        <div className="stake_title">How To Stake</div>
-        <div className={"step_container"}>
+        <div className="stake_title">
+          How To <span className="text-[#1C41E7]">Stake</span>
+        </div>
+        <div className="text-gray-400 text-base white-space: pre-wrap; text-center">
+          Staking increases a validator’s weight, which helps them,
+          <br />
+          and in return delegators get rewarded.
+        </div>
+        <div className="step_container">
           <div className="stake_left">
-            <div className="title">Step1</div>
-            <div className="text-white">Get the stake you want</div>
+            <div className="step_title">Step1</div>
+            <div className="text-gray-400">Get the stake you want</div>
           </div>
           <div className="stake_center">
-            <div className="title">Step2</div>
-            <div className="text-white">
-              Proceed with delegation to citism.dev according to the staking
-              guide.
+            <div className="step_title">Step2</div>
+            <div className="text-gray-400">
+              Proceed with delegation to citism.
             </div>
           </div>
           <div className="stake_right">
-            <div className="title">Step3</div>
-            <div className="text-white">Get rewarded or re-stake again.</div>
+            <div className="step_title">Step3</div>
+            <div className="text-gray-400">Get rewarded or re-stake again.</div>
           </div>
         </div>
       </div>

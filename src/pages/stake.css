@@ -1,7 +1,14 @@
 .stake_title {
   color: white;
-  font-size: 7vh;
+  font-size: 6vh;
   font-weight: 600;
+  margin-top: 10vh;
+}
+
+.step_title {
+  color: white;
+  font-size: 3vh;
+  margin-bottom: 2vh;
 }
 
 .stake_container {
@@ -24,24 +31,26 @@
 .stake_left {
   display: flex;
   justify-content: center;
+  align-items: center;
   flex-direction: column;
-  width: 25%;
+  width: 20%;
   height: 70%;
-  margin: 10px;
 }
 
 .stake_center {
   display: flex;
   justify-content: center;
+  align-items: center;
   flex-direction: column;
-  width: 25%;
+  width: 20%;
   height: 70%;
 }
 
 .stake_right {
   display: flex;
   justify-content: center;
+  align-items: center;
   flex-direction: column;
-  width: 25%;
+  width: 20%;
   height: 70%;
 }
