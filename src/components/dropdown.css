@@ -1,0 +1,38 @@
+.wrapper {
+  display: flex;
+  height: 60vh;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
+
+.tech {
+  width: 60vw;
+}
+
+.item {
+  margin-bottom: 1vh;
+  padding: 1vw 2vw;
+  border: 2px solid #1c41e7;
+  border-radius: 20px;
+}
+
+.drop_title {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.content {
+  color: #a6a6a6;
+  max-height: 0;
+  overflow: hidden;
+}
+
+.content.show {
+  height: auto;
+  max-height: 9999px;
+  transition: all 0.5s cubic-bezier(1, 0, 1, 0);
+}

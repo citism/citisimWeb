@@ -3,6 +3,8 @@ import Navbar from "./components/navbar";
 import Title from "./pages/title";
 import Node from "./pages/vaildator";
 import Stake from "./pages/stake";
+import Technology from "./pages/technology";
+import Network from "./pages/network";
 
 import "tailwindcss/tailwind.css";
 import { motion } from "framer-motion";
@@ -22,9 +24,11 @@ export default function Main() {
           <Stake />
         </div>
         <div className="snap-start w-screen h-screen ">
-          <Card />
+          <Technology />
         </div>
-        <div className="snap-start w-screen h-screen"></div>
+        <div className="snap-start w-screen h-screen ">
+          <Network />
+        </div>
       </div>
     </>
   );
