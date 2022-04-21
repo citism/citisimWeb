@@ -9,8 +9,9 @@ export default function Title() {
   return (
     <>
       <div className="technology_container">
-        <div className="technology_title">Technology</div>
-
+        <div className="tech_title_container">
+          <div className="technology_title">Technology</div>
+        </div>
         <div className="tech_container">
           <Dropdown />
         </div>
