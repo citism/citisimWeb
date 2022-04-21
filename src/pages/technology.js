@@ -11,7 +11,7 @@ export default function Title() {
       <div className="technology_container">
         <div className="technology_title">Technology</div>
 
-        <div className="step_container">
+        <div className="tech_container">
           <Dropdown />
         </div>
       </div>
