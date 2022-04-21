@@ -23,30 +23,37 @@ export default function Title() {
             participate in many blockchain ecosystems
           </div>
           <div>
-            <motion.button
-              whileTap={{ scale: 0.9 }}
-              whileHover={{
-                scale: 1.1,
-                transition: {
-                  duration: 0.2,
-                },
-              }}
-              className="btn_primary"
+            <a
+              href="https://www.mintscan.io/medibloc/validators/panaceavaloper1gvsgxrcv4uuqgxas5nq538f7hydg46mjx6lvuu"
+              target="_blank"
             >
-              Validator
-            </motion.button>
-            <motion.button
-              whileTap={{ scale: 0.9 }}
-              whileHover={{
-                scale: 1.1,
-                transition: {
-                  duration: 0.2,
-                },
-              }}
-              className="btn_secondary"
-            >
-              Github
-            </motion.button>
+              <motion.button
+                whileTap={{ scale: 0.9 }}
+                whileHover={{
+                  scale: 1.1,
+                  transition: {
+                    duration: 0.2,
+                  },
+                }}
+                className="btn_primary"
+              >
+                Validator
+              </motion.button>
+            </a>
+            <a href="https://github.com/citismTeam" target="_blank">
+              <motion.button
+                whileTap={{ scale: 0.9 }}
+                whileHover={{
+                  scale: 1.1,
+                  transition: {
+                    duration: 0.2,
+                  },
+                }}
+                className="btn_secondary"
+              >
+                Github
+              </motion.button>
+            </a>
           </div>
         </div>
         <div className="title_right"></div>

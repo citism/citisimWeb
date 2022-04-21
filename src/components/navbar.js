@@ -23,7 +23,11 @@ export default function Navbar() {
         <span className="font-semibold text-2xl">CITISM</span>
       </div>
       <div className="text-sm "></div>
-      <div className="text-lg my-3 text-white hover:text-blue-600">Github</div>
+      <motion.div className="text-lg my-3 text-white hover:text-blue-600">
+        <a href="https://github.com/citismTeam" target="_blank">
+          Github
+        </a>
+      </motion.div>
     </motion.nav>
   );
 }
