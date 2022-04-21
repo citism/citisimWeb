@@ -18,6 +18,7 @@ export default function Title() {
         </div>
         <div className="step_container">
           <div className="stake_left">
+            <div className="stake_img"></div>
             <div className="step_title">Step1</div>
             <div className="text-gray-400">Get the stake you want</div>
           </div>

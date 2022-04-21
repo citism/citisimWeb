@@ -39,6 +39,14 @@
   height: 70%;
 }
 
+.stake_img {
+  background-image: url("../../assets/stake.png");
+  background-size: cover;
+  width: 15vh;
+  height: 15vh;
+  margin-bottom: auto;
+}
+
 .stake_center {
   display: flex;
   justify-content: center;
