@@ -1,6 +1,7 @@
 import "./title.css";
 
 import "tailwindcss/tailwind.css";
+import { ReactComponent as Mainimg } from "./609.svg";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import classNames from "classnames";
@@ -17,7 +18,7 @@ export default function Title() {
       >
         <div className="title_left">
           <Text />
-          <div className="text-white mb-20 mt-5 text-gray-400">
+          <div className=" mb-20 mt-5 text-gray-400">
             The citism team believes in decentralization
             <br /> and contribute to the blockchain network <br /> and, Will
             participate in many blockchain ecosystems
@@ -56,7 +57,9 @@ export default function Title() {
             </a>
           </div>
         </div>
-        <div className="title_right"></div>
+        <div className="title_right">
+          <Mainimg width="100%" height="100%" />
+        </div>
       </div>
     </>
   );
