@@ -20,17 +20,10 @@ export default function Navbar() {
       }}
     >
       <div className="flex items-center text-white">
-        <span className="font-semibold text-2xl ml-3">CITISM</span>
+        <span className="font-semibold text-2xl">CITISM</span>
       </div>
       <div className="text-sm "></div>
-      <div>
-        <a
-          href="https://github.com/citismTeam/citisimWeb"
-          className="inline-block text-sm px-6 py-2 leading-none text-white hover:text-[#1C41E7] mt-4"
-        >
-          Github
-        </a>
-      </div>
+      <div className="text-lg my-3 text-white hover:text-blue-600">Github</div>
     </motion.nav>
   );
 }

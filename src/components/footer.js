@@ -13,9 +13,7 @@ export default function Footer() {
             <a
               href="https://github.com/citismTeam/citisimWeb"
               className="inline-block text-sm px-6 py-2 leading-none text-white hover:text-[#1C41E7] mt-4"
-            >
-              Github
-            </a>
+            ></a>
           </div>
         </div>
       </footer>
