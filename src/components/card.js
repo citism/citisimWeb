@@ -5,7 +5,7 @@ export default function Card() {
     <>
       <div class="networkHeader"></div>
       <div class="cardMain">
-        <div class="card">Magic Card</div>
+        <div class="card">Mediblock</div>
       </div>
     </>
   );

@@ -18,17 +18,25 @@ export default function Title() {
         </div>
         <div className="step_container">
           <div className="stake_left">
-            <div className="stake_img"></div>
+            <div className="img_container">
+              <div className="stake_img1"></div>
+            </div>
             <div className="step_title">Step1</div>
             <div className="text-gray-400">Get the stake you want</div>
           </div>
           <div className="stake_center">
+            <div className="img_container">
+              <div className="stake_img2"></div>
+            </div>
             <div className="step_title">Step2</div>
             <div className="text-gray-400">
               Proceed with delegation to citism.
             </div>
           </div>
           <div className="stake_right">
+            <div className="img_container">
+              <div className="stake_img3"></div>
+            </div>
             <div className="step_title">Step3</div>
             <div className="text-gray-400">Get rewarded or re-stake again.</div>
           </div>

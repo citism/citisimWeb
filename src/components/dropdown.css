@@ -12,9 +12,15 @@
 
 .item {
   margin-bottom: 1vh;
-  padding: 1vw 2vw;
-  border: 2px solid #1c41e7;
-  border-radius: 20px;
+  /* padding: 1vw 2vw; */
+  /* border: 2px solid #1c41e7; */
+  /* height: 10vh; */
+  border-radius: 10px;
+  border: 2px solid transparent;
+  background-image: linear-gradient(#222222, #222222),
+    linear-gradient(to right, #1c41e7, #346fe7, #7698ce, #649ce5, #7698ce);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
 }
 
 .drop_title {
@@ -24,12 +30,15 @@
   align-items: center;
   cursor: pointer;
   font-size: 2.5vh;
+  margin: 1vw;
 }
 
 .content {
   color: #a6a6a6;
   max-height: 0;
   overflow: hidden;
+  margin: 0 1vw 0 1vw;
+  /* padding-bottom: 1vw; */
 }
 
 .content.show {
