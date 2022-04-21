@@ -6,6 +6,18 @@ purpose: verify transcation
 validator scan: https://www.mintscan.io/medibloc/validators/panaceavaloper1gvsgxrcv4uuqgxas5nq538f7hydg46mjx6lvuu
 github url: https://github.com/citismTeam
 
+
+
+TITLE
+
+valify transaction with citism!
+
+-> 
+
+The citism team believes in decentralization and contribute to the blockchain network
+and, Will participate in many blockchain ecosystems
+
+
 1. color-hex 
   https://www.color-hex.com/color-palette/879
   https://www.color-hex.com/color/738678
