@@ -1,4 +1,5 @@
 import "./technology.css";
+import Dropdown from "../components/dropdown";
 
 import "tailwindcss/tailwind.css";
 import { motion } from "framer-motion";
@@ -10,7 +11,9 @@ export default function Title() {
       <div className="technology_container">
         <div className="technology_title">Technology</div>
 
-        <div className="step_container"></div>
+        <div className="step_container">
+          <Dropdown />
+        </div>
       </div>
     </>
   );
