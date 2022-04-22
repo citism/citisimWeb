@@ -1,4 +1,4 @@
-import { ReactComponent as Testa } from "./test.svg";
+import { ReactComponent as Testa } from "./node_animation.svg";
 import "./style.scss";
 
 export default function Test() {
