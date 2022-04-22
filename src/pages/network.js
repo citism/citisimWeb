@@ -11,7 +11,9 @@ export default function Network() {
     <>
       <div className="network_container">
         <div className="network_title">Network</div>
+
         <Card />
+
         <Footer />
       </div>
     </>

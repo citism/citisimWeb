@@ -1,7 +1,7 @@
 import "./title.css";
 
 import "tailwindcss/tailwind.css";
-import { ReactComponent as Mainimg } from "./609.svg";
+import { ReactComponent as Mainimg } from "./title_img.svg";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import classNames from "classnames";
@@ -55,7 +55,7 @@ export default function Title() {
           </div>
         </div>
         <div className="title_right">
-          <Mainimg width="100%" height="100%" />
+          <Mainimg width="100%" height="65%" />
         </div>
       </div>
     </>
