@@ -31,11 +31,17 @@
 }
 
 .cardViewButton {
+  font-size: 0.8rem;
   background-color: #1c41e7;
-  margin-top: 1vh;
-  font-size: 0.9rem;
-  padding: 0.3vh 0.8vh 0.3vh 0.8vh;
-  border-radius: 10px;
+  border-radius: 5px;
+  padding: 7px 10px;
+  width: 3.5rem;
+  height: 1.8rem;
+  margin-top: 1.5rem;
+}
+
+.cardViewButton:hover {
+  background-color: #081ca7;
 }
 
 /* .networkHeaderContent {
