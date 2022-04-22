@@ -1,6 +1,7 @@
 import "./title.css";
 
 import "tailwindcss/tailwind.css";
+import { ReactComponent as Mainimg } from "./609.svg";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import classNames from "classnames";
@@ -17,37 +18,48 @@ export default function Title() {
       >
         <div className="title_left">
           <Text />
-          <div className="text-white mb-20">
-            Varify transaction with citism!
+          <div className=" mb-20 mt-5 text-gray-400">
+            The citism team believes in decentralization
+            <br /> and contribute to the blockchain network <br /> and, Will
+            participate in many blockchain ecosystems
           </div>
           <div>
-            <motion.button
-              whileTap={{ scale: 0.9 }}
-              whileHover={{
-                scale: 1.1,
-                transition: {
-                  duration: 0.2,
-                },
-              }}
-              className="btn_primary"
+            <a
+              href="https://www.mintscan.io/medibloc/validators/panaceavaloper1gvsgxrcv4uuqgxas5nq538f7hydg46mjx6lvuu"
+              target="_blank"
             >
-              Validator
-            </motion.button>
-            <motion.button
-              whileTap={{ scale: 0.9 }}
-              whileHover={{
-                scale: 1.1,
-                transition: {
-                  duration: 0.2,
-                },
-              }}
-              className="btn_secondary"
-            >
-              Github
-            </motion.button>
+              <motion.button
+                whileTap={{ scale: 0.9 }}
+                whileHover={{
+                  scale: 1.1,
+                  transition: {
+                    duration: 0.2,
+                  },
+                }}
+                className="btn_primary"
+              >
+                Validator
+              </motion.button>
+            </a>
+            <a href="https://github.com/citismTeam" target="_blank">
+              <motion.button
+                whileTap={{ scale: 0.9 }}
+                whileHover={{
+                  scale: 1.1,
+                  transition: {
+                    duration: 0.2,
+                  },
+                }}
+                className="btn_secondary"
+              >
+                Github
+              </motion.button>
+            </a>
           </div>
         </div>
-        <div className="title_right"></div>
+        <div className="title_right">
+          <Mainimg width="100%" height="100%" />
+        </div>
       </div>
     </>
   );

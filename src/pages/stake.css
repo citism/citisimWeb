@@ -39,6 +39,35 @@
   height: 70%;
 }
 
+.img_container {
+  height: 16vh;
+  margin-bottom: 1vh;
+}
+
+.stake_img1 {
+  background-image: url("../../assets/stake.png");
+  background-size: cover;
+  width: 12vh;
+  height: 15vh;
+  margin-bottom: 2vh;
+}
+
+.stake_img2 {
+  background-image: url("../../assets/person.png");
+  background-size: cover;
+  width: 8vw;
+  height: 16vh;
+  margin-bottom: 2vh;
+}
+
+.stake_img3 {
+  background-image: url("../../assets/money.png");
+  background-size: cover;
+  width: 13vh;
+  height: 15vh;
+  margin-bottom: 2vh;
+}
+
 .stake_center {
   display: flex;
   justify-content: center;

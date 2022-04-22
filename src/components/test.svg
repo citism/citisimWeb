@@ -820,7 +820,7 @@ nvZv8BB88ugI9SjraI8IR+3YmOMvQ/8aAX0V/4vjS4P62v6/4amcyqmcyqmcyn7K/wUYAPAo4Ieo
           <circle fill="#FF8088" cx="553.5" cy="364.8" r="1.5" />
           <circle fill="#FF8088" cx="518.5" cy="307.8" r="0.5" />
           <circle fill="#FFFFFF" cx="600.2" cy="379.4" r="0.7" />
-          <circle fill="#E64852" cx="581.8" cy="310.5" r="0.7" />
+          <circle fill="#346FE7" cx="581.8" cy="310.5" r="0.7" />
           <circle fill="#FFFFFF" cx="564.5" cy="353.8" r="0.7" />
           <circle fill="#FFFFFF" cx="602.9" cy="394.5" r="0.7" />
           <circle fill="#FFFFFF" cx="596.7" cy="336.1" r="0.7" />
@@ -828,12 +828,12 @@ nvZv8BB88ugI9SjraI8IR+3YmOMvQ/8aAX0V/4vjS4P62v6/4amcyqmcyqmcyn7K/wUYAPAo4Ieo
           <circle fill="#FFFFFF" cx="573.3" cy="388.6" r="0.7" />
           <circle fill="#FFFFFF" cx="509.4" cy="371" r="0.7" />
           <circle fill="#FFFFFF" cx="532.5" cy="363.8" r="0.7" />
-          <circle fill="#E64852" cx="604.2" cy="357.9" r="1.4" />
+          <circle fill="#346FE7" cx="604.2" cy="357.9" r="1.4" />
           <circle fill="#FFFFFF" cx="521.8" cy="341" r="0.7" />
-          <circle fill="#E64852" cx="506.9" cy="322" r="0.7" />
-          <circle fill="#E64852" cx="513" cy="361.5" r="0.7" />
-          <circle fill="#E64852" cx="554.8" cy="313.4" r="1" />
-          <circle fill="#E64852" cx="539.3" cy="341.7" r="1.4" />
+          <circle fill="#346FE7" cx="506.9" cy="322" r="0.7" />
+          <circle fill="#346FE7" cx="513" cy="361.5" r="0.7" />
+          <circle fill="#346FE7" cx="554.8" cy="313.4" r="1" />
+          <circle fill="#346FE7" cx="539.3" cy="341.7" r="1.4" />
           <circle fill="#FFFFFF" cx="508.1" cy="391.9" r="1.4" />
           <circle fill="#FFFFFF" cx="590.4" cy="371" r="1.4" />
         </g>
@@ -982,7 +982,7 @@ nvZv8BB88ugI9SjraI8IR+3YmOMvQ/8aAX0V/4vjS4P62v6/4amcyqmcyqmcyn7K/wUYAPAo4Ieo
           <circle fill="#FF8088" cx="1249.2" cy="825.7" r="1.5" />
           <circle fill="#FF8088" cx="1214.2" cy="768.7" r="0.5" />
           <circle fill="#FFFFFF" cx="1295.9" cy="840.3" r="0.7" />
-          <circle fill="#E64852" cx="1277.5" cy="771.4" r="0.7" />
+          <circle fill="#346FE7" cx="1277.5" cy="771.4" r="0.7" />
           <circle fill="#FFFFFF" cx="1260.2" cy="814.7" r="0.7" />
           <circle fill="#FFFFFF" cx="1298.6" cy="855.4" r="0.7" />
           <circle fill="#FFFFFF" cx="1292.4" cy="797" r="0.7" />
@@ -990,12 +990,12 @@ nvZv8BB88ugI9SjraI8IR+3YmOMvQ/8aAX0V/4vjS4P62v6/4amcyqmcyqmcyn7K/wUYAPAo4Ieo
           <circle fill="#FFFFFF" cx="1269.1" cy="849.5" r="0.7" />
           <circle fill="#FFFFFF" cx="1205.1" cy="831.9" r="0.7" />
           <circle fill="#FFFFFF" cx="1228.2" cy="824.7" r="0.7" />
-          <circle fill="#E64852" cx="1300" cy="818.8" r="1.4" />
+          <circle fill="#346FE7" cx="1300" cy="818.8" r="1.4" />
           <circle fill="#FFFFFF" cx="1217.5" cy="801.9" r="0.7" />
-          <circle fill="#E64852" cx="1202.6" cy="782.9" r="0.7" />
-          <circle fill="#E64852" cx="1208.8" cy="822.4" r="0.7" />
-          <circle fill="#E64852" cx="1250.5" cy="774.3" r="1" />
-          <circle fill="#E64852" cx="1235.1" cy="802.6" r="1.4" />
+          <circle fill="#346FE7" cx="1202.6" cy="782.9" r="0.7" />
+          <circle fill="#346FE7" cx="1208.8" cy="822.4" r="0.7" />
+          <circle fill="#346FE7" cx="1250.5" cy="774.3" r="1" />
+          <circle fill="#346FE7" cx="1235.1" cy="802.6" r="1.4" />
           <circle fill="#FFFFFF" cx="1203.9" cy="852.8" r="1.4" />
           <circle fill="#FFFFFF" cx="1286.2" cy="831.9" r="1.4" />
         </g>
@@ -1548,116 +1548,116 @@ RK5CYII=" transform="matrix(0.98 0 0 0.98 590.2817 497.2417)">
     <g id="redblocksparticles">
       <g>
         <linearGradient id="SVGID_91_" x1="3650.8601" x2="3659.948" y1="114.5993" y2="168.2118" gradientTransform="matrix(-0.3592 -0.3065 -1.2019 0.6834 2623.3687 1550.1232)" gradientUnits="userSpaceOnUse">
-          <stop offset="0" style="stop-color:#FFB3B7;stop-opacity:0" />
-          <stop offset="1" style="stop-color:#FFB3B7" />
+          <stop offset="0" style="stop-color:#649CE5;stop-opacity:0" />
+          <stop offset="1" style="stop-color:#649CE5" />
         </linearGradient>
         <polygon fill="url(#SVGID_91_)" points="1114,501.7 1114,579 1202,523 1142.3,486 
 						" enable-background="new    " />
         <linearGradient id="SVGID_92_" x1="3814.6211" x2="3799.0762" y1="74.9866" y2="152.319" gradientTransform="matrix(-0.3592 -0.3065 -1.2019 0.6834 2623.3687 1550.1232)" gradientUnits="userSpaceOnUse">
-          <stop offset="0" style="stop-color:#FFB3B7;stop-opacity:0" />
-          <stop offset="1" style="stop-color:#FFB3B7" />
+          <stop offset="0" style="stop-color:#649CE5;stop-opacity:0" />
+          <stop offset="1" style="stop-color:#649CE5" />
         </linearGradient>
         <polygon fill="url(#SVGID_92_)" points="1050.3,461.1 1113,502 1204,450.6 
 			1141.3,409 			" enable-background="new    " />
         <g>
-          <circle cx="1115.2" cy="508.7" r="1.5" fill="#FF8088" />
-          <circle cx="1080.2" cy="451.7" r="0.5" fill="#FF8088" />
+          <circle cx="1115.2" cy="508.7" r="1.5" fill="#649CE5" />
+          <circle cx="1080.2" cy="451.7" r="0.5" fill="#649CE5" />
           <circle cx="1161.9" cy="523.3" r="0.7" fill="#FFFFFF" />
-          <circle cx="1143.5" cy="454.4" r="0.7" fill="#E64852" />
+          <circle cx="1143.5" cy="454.4" r="0.7" fill="#346FE7" />
           <circle cx="1126.2" cy="497.7" r="0.7" fill="#FFFFFF" />
           <circle cx="1164.6" cy="538.4" r="0.7" fill="#FFFFFF" />
           <circle cx="1158.4" cy="480" r="0.7" fill="#FFFFFF" />
-          <circle cx="1138.4" cy="483.5" r="0.7" fill="#FF8088" />
+          <circle cx="1138.4" cy="483.5" r="0.7" fill="#649CE5" />
           <circle cx="1135.1" cy="532.5" r="0.7" fill="#FFFFFF" />
           <circle cx="1071.1" cy="514.9" r="0.7" fill="#FFFFFF" />
           <circle cx="1094.2" cy="507.7" r="0.7" fill="#FFFFFF" />
-          <circle cx="1166" cy="501.8" r="1.4" fill="#E64852" />
+          <circle cx="1166" cy="501.8" r="1.4" fill="#346FE7" />
           <circle cx="1083.5" cy="484.9" r="0.7" fill="#FFFFFF" />
-          <circle cx="1068.6" cy="465.9" r="0.7" fill="#E64852" />
-          <circle cx="1074.8" cy="505.4" r="0.7" fill="#E64852" />
-          <circle cx="1116.5" cy="457.3" r="1" fill="#E64852" />
-          <circle cx="1101.1" cy="485.6" r="1.4" fill="#E64852" />
+          <circle cx="1068.6" cy="465.9" r="0.7" fill="#346FE7" />
+          <circle cx="1074.8" cy="505.4" r="0.7" fill="#346FE7" />
+          <circle cx="1116.5" cy="457.3" r="1" fill="#346FE7" />
+          <circle cx="1101.1" cy="485.6" r="1.4" fill="#346FE7" />
           <circle cx="1069.9" cy="535.8" r="1.4" fill="#FFFFFF" />
           <circle cx="1152.2" cy="514.9" r="1.4" fill="#FFFFFF" />
         </g>
       </g>
       <g>
         <linearGradient id="SVGID_93_" x1="3634.5652" x2="3643.6531" y1="382.3858" y2="435.9983" gradientTransform="matrix(-0.3592 -0.3065 -1.2019 0.6834 2623.3687 1550.1232)" gradientUnits="userSpaceOnUse">
-          <stop offset="0" style="stop-color:#FFB3B7;stop-opacity:0" />
-          <stop offset="1" style="stop-color:#FFB3B7" />
+          <stop offset="0" style="stop-color:#649CE5;stop-opacity:0" />
+          <stop offset="1" style="stop-color:#649CE5" />
         </linearGradient>
         <polygon fill="url(#SVGID_93_)" points="798,689.7 798,767 886,711 826.3,674 			" enable-background="new    " opacity="0.35" />
         <linearGradient id="SVGID_94_" x1="3798.3262" x2="3782.7813" y1="342.7743" y2="420.1066" gradientTransform="matrix(-0.3592 -0.3065 -1.2019 0.6834 2623.3687 1550.1232)" gradientUnits="userSpaceOnUse">
-          <stop offset="0" style="stop-color:#FFB3B7;stop-opacity:0" />
-          <stop offset="1" style="stop-color:#FFB3B7" />
+          <stop offset="0" style="stop-color:#649CE5;stop-opacity:0" />
+          <stop offset="1" style="stop-color:#649CE5" />
         </linearGradient>
         <polygon fill="url(#SVGID_94_)" points="734.3,649.1 797,690 888,638.6 825.3,597 
 						" enable-background="new    " opacity="0.35" />
         <g>
-          <circle cx="799.2" cy="696.7" r="1.5" fill="#FF8088" />
-          <circle cx="764.2" cy="639.7" r="0.5" fill="#FF8088" />
+          <circle cx="799.2" cy="696.7" r="1.5" fill="#649CE5" />
+          <circle cx="764.2" cy="639.7" r="0.5" fill="#649CE5" />
           <circle cx="845.9" cy="711.3" r="0.7" fill="#FFFFFF" />
-          <circle cx="827.5" cy="642.4" r="0.7" fill="#E64852" />
+          <circle cx="827.5" cy="642.4" r="0.7" fill="#346FE7" />
           <circle cx="810.2" cy="685.7" r="0.7" fill="#FFFFFF" />
           <circle cx="848.6" cy="726.4" r="0.7" fill="#FFFFFF" />
           <circle cx="842.4" cy="668" r="0.7" fill="#FFFFFF" />
-          <circle cx="822.4" cy="671.5" r="0.7" fill="#FF8088" />
+          <circle cx="822.4" cy="671.5" r="0.7" fill="#649CE5" />
           <circle cx="819.1" cy="720.5" r="0.7" fill="#FFFFFF" />
           <circle cx="755.1" cy="702.9" r="0.7" fill="#FFFFFF" />
           <circle cx="778.2" cy="695.7" r="0.7" fill="#FFFFFF" />
-          <circle cx="850" cy="689.8" r="1.4" fill="#E64852" />
+          <circle cx="850" cy="689.8" r="1.4" fill="#346FE7" />
           <circle cx="767.5" cy="672.9" r="0.7" fill="#FFFFFF" />
-          <circle cx="752.6" cy="653.9" r="0.7" fill="#E64852" />
-          <circle cx="758.8" cy="693.4" r="0.7" fill="#E64852" />
-          <circle cx="800.5" cy="645.3" r="1" fill="#E64852" />
-          <circle cx="785.1" cy="673.6" r="1.4" fill="#E64852" />
+          <circle cx="752.6" cy="653.9" r="0.7" fill="#346FE7" />
+          <circle cx="758.8" cy="693.4" r="0.7" fill="#346FE7" />
+          <circle cx="800.5" cy="645.3" r="1" fill="#346FE7" />
+          <circle cx="785.1" cy="673.6" r="1.4" fill="#346FE7" />
           <circle cx="753.9" cy="723.8" r="1.4" fill="#FFFFFF" />
           <circle cx="836.2" cy="702.9" r="1.4" fill="#FFFFFF" />
         </g>
       </g>
       <g>
         <linearGradient id="SVGID_95_" x1="3629.489" x2="3638.5767" y1="516.1934" y2="569.8058" gradientTransform="matrix(-0.3592 -0.3065 -1.2019 0.6834 2623.3687 1550.1232)" gradientUnits="userSpaceOnUse">
-          <stop offset="0" style="stop-color:#FFB3B7;stop-opacity:0" />
-          <stop offset="1" style="stop-color:#FFB3B7" />
+          <stop offset="0" style="stop-color:#649CE5;stop-opacity:0" />
+          <stop offset="1" style="stop-color:#649CE5" />
         </linearGradient>
         <polygon fill="url(#SVGID_95_)" points="639,782.7 639,860 727,804 667.3,767 			" enable-background="new    " opacity="0.35" />
         <linearGradient id="SVGID_96_" x1="3793.2498" x2="3777.7048" y1="476.5823" y2="553.9148" gradientTransform="matrix(-0.3592 -0.3065 -1.2019 0.6834 2623.3687 1550.1232)" gradientUnits="userSpaceOnUse">
-          <stop offset="0" style="stop-color:#FFB3B7;stop-opacity:0" />
-          <stop offset="1" style="stop-color:#FFB3B7" />
+          <stop offset="0" style="stop-color:#649CE5;stop-opacity:0" />
+          <stop offset="1" style="stop-color:#649CE5" />
         </linearGradient>
         <polygon fill="url(#SVGID_96_)" points="575.3,742.1 638,783 729,731.6 666.3,690 
 						" enable-background="new    " opacity="0.35" />
         <g>
-          <circle cx="640.2" cy="789.7" r="1.5" fill="#FF8088" />
-          <circle cx="605.2" cy="732.7" r="0.5" fill="#FF8088" />
+          <circle cx="640.2" cy="789.7" r="1.5" fill="#649CE5" />
+          <circle cx="605.2" cy="732.7" r="0.5" fill="#649CE5" />
           <circle cx="686.9" cy="804.3" r="0.7" fill="#FFFFFF" />
-          <circle cx="668.5" cy="735.4" r="0.7" fill="#E64852" />
+          <circle cx="668.5" cy="735.4" r="0.7" fill="#346FE7" />
           <circle cx="651.2" cy="778.7" r="0.7" fill="#FFFFFF" />
           <circle cx="689.6" cy="819.4" r="0.7" fill="#FFFFFF" />
           <circle cx="683.4" cy="761" r="0.7" fill="#FFFFFF" />
-          <circle cx="663.4" cy="764.5" r="0.7" fill="#FF8088" />
+          <circle cx="663.4" cy="764.5" r="0.7" fill="#649CE5" />
           <circle cx="660.1" cy="813.5" r="0.7" fill="#FFFFFF" />
           <circle cx="596.1" cy="795.9" r="0.7" fill="#FFFFFF" />
           <circle cx="619.2" cy="788.7" r="0.7" fill="#FFFFFF" />
-          <circle cx="691" cy="782.8" r="1.4" fill="#E64852" />
+          <circle cx="691" cy="782.8" r="1.4" fill="#346FE7" />
           <circle cx="608.5" cy="765.9" r="0.7" fill="#FFFFFF" />
-          <circle cx="593.6" cy="746.9" r="0.7" fill="#E64852" />
-          <circle cx="599.8" cy="786.4" r="0.7" fill="#E64852" />
-          <circle cx="641.5" cy="738.3" r="1" fill="#E64852" />
-          <circle cx="626.1" cy="766.6" r="1.4" fill="#E64852" />
+          <circle cx="593.6" cy="746.9" r="0.7" fill="#346FE7" />
+          <circle cx="599.8" cy="786.4" r="0.7" fill="#346FE7" />
+          <circle cx="641.5" cy="738.3" r="1" fill="#346FE7" />
+          <circle cx="626.1" cy="766.6" r="1.4" fill="#346FE7" />
           <circle cx="594.9" cy="816.8" r="1.4" fill="#FFFFFF" />
           <circle cx="677.2" cy="795.9" r="1.4" fill="#FFFFFF" />
         </g>
       </g>
       <g>
         <linearGradient id="SVGID_97_" x1="3619.9592" x2="3629.0474" y1="648.0037" y2="701.6161" gradientTransform="matrix(-0.3592 -0.3065 -1.2019 0.6834 2623.3687 1550.1232)" gradientUnits="userSpaceOnUse">
-          <stop offset="0" style="stop-color:#FFB3B7;stop-opacity:0" />
-          <stop offset="1" style="stop-color:#FFB3B7" />
+          <stop offset="0" style="stop-color:#649CE5;stop-opacity:0" />
+          <stop offset="1" style="stop-color:#649CE5" />
         </linearGradient>
         <polygon fill="url(#SVGID_97_)" points="484,875.7 484,953 572,897 512.3,860 			" enable-background="new    " opacity="0.35" />
         <linearGradient id="SVGID_98_" x1="3783.7202" x2="3768.1753" y1="608.3932" y2="685.7256" gradientTransform="matrix(-0.3592 -0.3065 -1.2019 0.6834 2623.3687 1550.1232)" gradientUnits="userSpaceOnUse">
-          <stop offset="0" style="stop-color:#FFB3B7;stop-opacity:0" />
-          <stop offset="1" style="stop-color:#FFB3B7" />
+          <stop offset="0" style="stop-color:#649CE5;stop-opacity:0" />
+          <stop offset="1" style="stop-color:#649CE5" />
         </linearGradient>
         <polygon fill="url(#SVGID_98_)" points="420.3,835.1 483,876 574,824.6 511.3,783 
 						" enable-background="new    " opacity="0.35" />
@@ -1665,7 +1665,7 @@ RK5CYII=" transform="matrix(0.98 0 0 0.98 590.2817 497.2417)">
           <circle cx="485.2" cy="882.7" r="1.5" fill="#FF8088" />
           <circle cx="450.2" cy="825.7" r="0.5" fill="#FF8088" />
           <circle cx="531.9" cy="897.3" r="0.7" fill="#FFFFFF" />
-          <circle cx="513.5" cy="828.4" r="0.7" fill="#E64852" />
+          <circle cx="513.5" cy="828.4" r="0.7" fill="#346FE7" />
           <circle cx="496.2" cy="871.7" r="0.7" fill="#FFFFFF" />
           <circle cx="534.6" cy="912.4" r="0.7" fill="#FFFFFF" />
           <circle cx="528.4" cy="854" r="0.7" fill="#FFFFFF" />
@@ -1673,12 +1673,12 @@ RK5CYII=" transform="matrix(0.98 0 0 0.98 590.2817 497.2417)">
           <circle cx="505.1" cy="906.5" r="0.7" fill="#FFFFFF" />
           <circle cx="441.1" cy="888.9" r="0.7" fill="#FFFFFF" />
           <circle cx="464.2" cy="881.7" r="0.7" fill="#FFFFFF" />
-          <circle cx="536" cy="875.8" r="1.4" fill="#E64852" />
+          <circle cx="536" cy="875.8" r="1.4" fill="#346FE7" />
           <circle cx="453.5" cy="858.9" r="0.7" fill="#FFFFFF" />
-          <circle cx="438.6" cy="839.9" r="0.7" fill="#E64852" />
-          <circle cx="444.8" cy="879.4" r="0.7" fill="#E64852" />
-          <circle cx="486.5" cy="831.3" r="1" fill="#E64852" />
-          <circle cx="471.1" cy="859.6" r="1.4" fill="#E64852" />
+          <circle cx="438.6" cy="839.9" r="0.7" fill="#346FE7" />
+          <circle cx="444.8" cy="879.4" r="0.7" fill="#346FE7" />
+          <circle cx="486.5" cy="831.3" r="1" fill="#346FE7" />
+          <circle cx="471.1" cy="859.6" r="1.4" fill="#346FE7" />
           <circle cx="439.9" cy="909.8" r="1.4" fill="#FFFFFF" />
           <circle cx="522.2" cy="888.9" r="1.4" fill="#FFFFFF" />
         </g>
@@ -1776,7 +1776,7 @@ RK5CYII=" transform="matrix(0.98 0 0 0.98 590.2817 497.2417)">
       </linearGradient>
       <polygon fill="url(#SVGID_50_)" points="1363,355.9 1363,429 1432,391.1 1432,313.8 			" />
       <linearGradient id="SVGID_51_" x1="1347.0559" x2="1388.1415" y1="-355.8673" y2="-420.1857" gradientTransform="matrix(1 0 0 1 0 700)" gradientUnits="userSpaceOnUse">
-        <stop offset="0" style="stop-color:#E64852" />
+        <stop offset="0" style="stop-color:#346FE7" />
         <stop offset="5.850000e-02" style="stop-color:#E44550" />
         <stop offset="0.6415" style="stop-color:#D42D41" />
         <stop offset="1" style="stop-color:#CE243C" />
@@ -1833,7 +1833,7 @@ RK5CYII=" transform="matrix(0.98 0 0 0.98 590.2817 497.2417)">
       </linearGradient>
       <polygon fill="url(#SVGID_86_)" points="416,917.8 416,990.9 484,953 484,875.7 			" />
       <linearGradient id="SVGID_87_" x1="399.3084" x2="440.5609" y1="206.1853" y2="141.6056" gradientTransform="matrix(1 0 0 1 0 700)" gradientUnits="userSpaceOnUse">
-        <stop offset="0" style="stop-color:#E64852" />
+        <stop offset="0" style="stop-color:#346FE7" />
         <stop offset="5.850000e-02" style="stop-color:#E44550" />
         <stop offset="0.6415" style="stop-color:#D42D41" />
         <stop offset="1" style="stop-color:#CE243C" />
@@ -1892,7 +1892,7 @@ RK5CYII=" transform="matrix(0.98 0 0 0.98 590.2817 497.2417)">
         </linearGradient>
         <polygon fill="url(#SVGID_50_)" points="1363,355.9 1363,429 1432,391.1 1432,313.8 			" />
         <linearGradient id="SVGID_51_" x1="1347.0559" x2="1388.1415" y1="-355.8673" y2="-420.1857" gradientTransform="matrix(1 0 0 1 0 700)" gradientUnits="userSpaceOnUse">
-          <stop offset="0" style="stop-color:#E64852" />
+          <stop offset="0" style="stop-color:#346FE7" />
           <stop offset="5.850000e-02" style="stop-color:#E44550" />
           <stop offset="0.6415" style="stop-color:#D42D41" />
           <stop offset="1" style="stop-color:#CE243C" />
@@ -1949,7 +1949,7 @@ RK5CYII=" transform="matrix(0.98 0 0 0.98 590.2817 497.2417)">
         </linearGradient>
         <polygon fill="url(#SVGID_56_)" points="1205,449.9 1205,523 1274,485.1 1274,407.8 			" />
         <linearGradient id="SVGID_57_" x1="1189.0559" x2="1230.1415" y1="-261.8673" y2="-326.1857" gradientTransform="matrix(1 0 0 1 0 700)" gradientUnits="userSpaceOnUse">
-          <stop offset="0" style="stop-color:#E64852" />
+          <stop offset="0" style="stop-color:#346FE7" />
           <stop offset="5.850000e-02" style="stop-color:#E44550" />
           <stop offset="0.6415" style="stop-color:#D42D41" />
           <stop offset="1" style="stop-color:#CE243C" />
@@ -2006,7 +2006,7 @@ RK5CYII=" transform="matrix(0.98 0 0 0.98 590.2817 497.2417)">
         </linearGradient>
         <polygon fill="url(#SVGID_62_)" points="1044,543.9 1044,617 1113,579.1 1113,501.8 			" />
         <linearGradient id="SVGID_63_" x1="1028.0559" x2="1069.1415" y1="-167.8673" y2="-232.1857" gradientTransform="matrix(1 0 0 1 0 700)" gradientUnits="userSpaceOnUse">
-          <stop offset="0" style="stop-color:#E64852" />
+          <stop offset="0" style="stop-color:#346FE7" />
           <stop offset="5.850000e-02" style="stop-color:#E44550" />
           <stop offset="0.6415" style="stop-color:#D42D41" />
           <stop offset="1" style="stop-color:#CE243C" />
@@ -2063,7 +2063,7 @@ RK5CYII=" transform="matrix(0.98 0 0 0.98 590.2817 497.2417)">
         </linearGradient>
         <polygon fill="url(#SVGID_68_)" points="886,637.9 886,711 955,673.1 955,595.8 			" />
         <linearGradient id="SVGID_69_" x1="870.056" x2="911.1414" y1="-73.8674" y2="-138.1857" gradientTransform="matrix(1 0 0 1 0 700)" gradientUnits="userSpaceOnUse">
-          <stop offset="0" style="stop-color:#E64852" />
+          <stop offset="0" style="stop-color:#346FE7" />
           <stop offset="5.850000e-02" style="stop-color:#E44550" />
           <stop offset="0.6415" style="stop-color:#D42D41" />
           <stop offset="1" style="stop-color:#CE243C" />
@@ -2120,7 +2120,7 @@ RK5CYII=" transform="matrix(0.98 0 0 0.98 590.2817 497.2417)">
         </linearGradient>
         <polygon fill="url(#SVGID_74_)" points="729,731.7 729,804.8 798,766.9 798,689.6 			" />
         <linearGradient id="SVGID_75_" x1="712.8423" x2="753.9279" y1="19.8539" y2="-44.4645" gradientTransform="matrix(1 0 0 1 0 700)" gradientUnits="userSpaceOnUse">
-          <stop offset="0" style="stop-color:#E64852" />
+          <stop offset="0" style="stop-color:#346FE7" />
           <stop offset="5.850000e-02" style="stop-color:#E44550" />
           <stop offset="0.6415" style="stop-color:#D42D41" />
           <stop offset="1" style="stop-color:#CE243C" />
@@ -2177,7 +2177,7 @@ RK5CYII=" transform="matrix(0.98 0 0 0.98 590.2817 497.2417)">
         </linearGradient>
         <polygon fill="url(#SVGID_80_)" points="572,823.9 572,897 640,859.1 640,781.8 			" />
         <linearGradient id="SVGID_81_" x1="555.7562" x2="596.8416" y1="112.1323" y2="47.814" gradientTransform="matrix(1 0 0 1 0 700)" gradientUnits="userSpaceOnUse">
-          <stop offset="0" style="stop-color:#E64852" />
+          <stop offset="0" style="stop-color:#346FE7" />
           <stop offset="5.850000e-02" style="stop-color:#E44550" />
           <stop offset="0.6415" style="stop-color:#D42D41" />
           <stop offset="1" style="stop-color:#CE243C" />
@@ -2234,7 +2234,7 @@ RK5CYII=" transform="matrix(0.98 0 0 0.98 590.2817 497.2417)">
         </linearGradient>
         <polygon fill="url(#SVGID_86_)" points="416,917.8 416,990.9 484,953 484,875.7 			" />
         <linearGradient id="SVGID_87_" x1="399.3084" x2="440.5609" y1="206.1853" y2="141.6056" gradientTransform="matrix(1 0 0 1 0 700)" gradientUnits="userSpaceOnUse">
-          <stop offset="0" style="stop-color:#E64852" />
+          <stop offset="0" style="stop-color:#346FE7" />
           <stop offset="5.850000e-02" style="stop-color:#E44550" />
           <stop offset="0.6415" style="stop-color:#D42D41" />
           <stop offset="1" style="stop-color:#CE243C" />
