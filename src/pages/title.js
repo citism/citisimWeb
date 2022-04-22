@@ -24,10 +24,7 @@ export default function Title() {
             participate in many blockchain ecosystems
           </div>
           <div>
-            <a
-              href="https://www.mintscan.io/medibloc/validators/panaceavaloper1gvsgxrcv4uuqgxas5nq538f7hydg46mjx6lvuu"
-              target="_blank"
-            >
+            <a href="https://docs.citism.dev/" target="_blank">
               <motion.button
                 whileTap={{ scale: 0.9 }}
                 whileHover={{
