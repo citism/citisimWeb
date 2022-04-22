@@ -24,7 +24,20 @@
 
 
 .cardContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   color: #fff;
+  font-size: 0.8em;
+
+}
+.cardViewButton {
+  background-color: #1c41e7;
+  margin-top: 1vh;
+  font-size: 0.9rem;
+  padding: 0.6vh;
+  border-radius: 10px;
 }
 
 /* .networkHeaderContent {
@@ -51,6 +64,8 @@
   font-size: 1.5em;
   color: rgb(88 199 250 / 0%);
   /* cursor: pointer; */
+  justify-content: center;
+  
   /* font-family: cursive; */
 }
 
