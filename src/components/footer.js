@@ -11,10 +11,7 @@ export default function Footer() {
           </div>
           <div className="footer_center">
             <div className="footer_title">Contact Us</div>
-            <div className="text-gray-400 text-sm">
-              {/* //? 지웅님 메일을 제가 몰라요ㅜㅜ */}
-              abcd@gmail.com
-            </div>
+            <div className="text-gray-400 text-sm">admin@citism.dev</div>
           </div>
           <div className="footer_right">
             <div className="footer_title">Social</div>

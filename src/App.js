@@ -12,7 +12,7 @@ import { motion } from "framer-motion";
 export default function Main() {
   return (
     <>
-      <div className="snap-y snap-mandatory h-screen overflow-scroll">
+      <div className="snap-y snap-mandatory h-screen w-screen overflow-y-scroll overflow-x-hidden">
         <div className="snap-start h-screen ">
           <Navbar />
           <Title />
