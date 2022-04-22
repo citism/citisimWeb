@@ -1,5 +1,6 @@
 import "./dropdown.css";
 import { useState } from "react";
+import classNames from "classnames";
 
 export default function Text() {
   const [selected, setSelected] = useState(null);
@@ -15,7 +16,10 @@ export default function Text() {
       <div className="tech">
         {data.map((item, i) => (
           <div className="item">
-            <div className="drop_title" onClick={() => toggle(i)}>
+            <div
+              className={classNames("drop_title", "md:text-2xl text-lg")}
+              onClick={() => toggle(i)}
+            >
               <div>{item.title}</div>
               <span>{selected == i ? "-" : "+"}</span>
             </div>

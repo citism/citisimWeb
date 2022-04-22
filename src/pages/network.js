@@ -10,7 +10,9 @@ export default function Network() {
   return (
     <>
       <div className="network_container">
-        <div className="network_title">Network</div>
+        <div className={classNames("network_title", "md:text-6xl text-3xl")}>
+          Network
+        </div>
 
         <Card />
 

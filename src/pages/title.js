@@ -18,7 +18,7 @@ export default function Title() {
       >
         <div className="title_left">
           <Text />
-          <div className=" mb-20 mt-5 text-gray-400">
+          <div className="mb-32 mt-8 text-gray-400 ">
             The citism team believes in decentralization
             <br /> and contribute to the blockchain network <br /> and, Will
             participate in many blockchain ecosystems

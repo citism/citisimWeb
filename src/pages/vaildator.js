@@ -14,7 +14,9 @@ export default function Title() {
         }
       >
         <div className="validator_left">
-          <div className="validator_title">
+          <div
+            className={classNames("validator_title", "md:text-6xl text-3xl")}
+          >
             What is <span className="title_acc">validator</span> ?
           </div>
           <div className="text-gray-400 text-base white-space: pre-wrap;">

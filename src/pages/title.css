@@ -52,21 +52,24 @@
   font-size: 1.2vw;
   background-color: #1c41e7;
   border-radius: 10px;
-  margin-top: 10vh;
+
   margin-right: 1vw;
   padding: 7px 10px 7px 10px;
   width: 8.3vw;
   height: 5.3vh;
-  font-weight: 300;
+  min-width: fit-content;
+  min-height: fit-content;
 }
 
 .btn_secondary {
   font-size: 1.2vw;
   border: 2px solid #1c41e7;
   border-radius: 10px;
-  margin-top: 10vh;
+
   margin-right: 1vw;
   padding: 7px 10px 7px 10px;
   width: 8.3vw;
   height: 5.3vh;
+  min-width: fit-content;
+  min-height: fit-content;
 }

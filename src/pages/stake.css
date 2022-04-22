@@ -1,14 +1,23 @@
 .stake_title {
   color: white;
-  font-size: 6vh;
+  /* font-size: 6vh; */
   font-weight: 600;
   margin-top: 10vh;
+  margin-bottom: 3vh;
 }
 
 .step_title {
   color: white;
-  font-size: 3vh;
+  /* font-size: 3vh; */
   margin-bottom: 2vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 20%;
+}
+
+.step_sub {
+  height: 20%;
 }
 
 .stake_container {
@@ -30,42 +39,36 @@
   background-color: #222222;
 }
 
-.stake_left {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  width: 20%;
-  height: 70%;
-}
-
 .img_container {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 16vh;
   margin-bottom: 1vh;
+  height: 60%;
 }
 
 .stake_img1 {
   background-image: url("../../assets/stake.svg");
   background-repeat: no-repeat;
-  width: 11vh;
-  height: 12vh;
 }
 
 .stake_img2 {
   background-image: url("../../assets/person.svg");
   background-repeat: no-repeat;
-  width: 11vh;
-  height: 12vh;
 }
 
 .stake_img3 {
   background-image: url("../../assets/money.svg");
   background-repeat: no-repeat;
-  width: 11vh;
-  height: 12vh;
+}
+
+.stake_left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 22%;
+  height: 70%;
 }
 
 .stake_center {
@@ -73,7 +76,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: 20%;
+  width: 22%;
   height: 70%;
 }
 
@@ -82,6 +85,6 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: 20%;
+  width: 22%;
   height: 70%;
 }
