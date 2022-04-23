@@ -8,7 +8,12 @@ export default function Footer() {
         <div className="footer_container_top">
           <div className="footer_left">
             <div className="footer_title">Network</div>
-            <div className="text-gray-400 md:text-sm text-xs">Medibloc</div>
+            <a
+              href="https://www.mintscan.io/medibloc/validators/panaceavaloper1gvsgxrcv4uuqgxas5nq538f7hydg46mjx6lvuu"
+              target="_blank"
+            >
+              <div className="text-gray-400 md:text-sm text-xs">Medibloc</div>
+            </a>
           </div>
           <div className={classNames("footer_center", "md:w-1/4 w-28")}>
             <div className="footer_title">Contact Us</div>
@@ -17,8 +22,8 @@ export default function Footer() {
             </div>
           </div>
           <div className="footer_right">
-            <div className="footer_title">Social</div>
-            <div className="text-gray-400 md:text-sm text-xs">Discord</div>
+            <div className="footer_title"></div>
+            <div className="text-gray-400 md:text-sm text-xs"></div>
           </div>
         </div>
         <div className="footer_container_bot">

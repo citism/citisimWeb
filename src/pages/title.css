@@ -55,8 +55,8 @@
 
   margin-right: 1vw;
   padding: 7px 10px 7px 10px;
-  width: 8.3vw;
-  height: 5.3vh;
+  /* width: 8.3vw;
+  height: 5.3vh; */
   min-width: fit-content;
   min-height: fit-content;
 }
@@ -65,11 +65,10 @@
   font-size: 1.2vw;
   border: 2px solid #1c41e7;
   border-radius: 10px;
-
   margin-right: 1vw;
   padding: 7px 10px 7px 10px;
-  width: 8.3vw;
-  height: 5.3vh;
+  /* width: 8.3vw;
+  height: 5.3vh; */
   min-width: fit-content;
   min-height: fit-content;
 }

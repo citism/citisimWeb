@@ -33,7 +33,10 @@ export default function Title() {
                     duration: 0.2,
                   },
                 }}
-                className="btn_primary"
+                className={classNames(
+                  "btn_primary",
+                  "md:w-32 md:h-11 w-24 h-10"
+                )}
               >
                 Validator
               </motion.button>
@@ -47,9 +50,12 @@ export default function Title() {
                     duration: 0.2,
                   },
                 }}
-                className="btn_secondary"
+                className={classNames(
+                  "btn_secondary",
+                  "md:w-32 md:h-11 w-24 h-10"
+                )}
               >
-                Github
+                Docs
               </motion.button>
             </a>
           </div>

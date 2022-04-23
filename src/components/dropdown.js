@@ -17,7 +17,7 @@ export default function Text() {
         {data.map((item, i) => (
           <div className="item">
             <div
-              className={classNames("drop_title", "md:text-2xl text-lg")}
+              className={classNames("drop_title", "md:text-2xl text-md")}
               onClick={() => toggle(i)}
             >
               <div>{item.title}</div>
