@@ -3,7 +3,6 @@ import "./title.css";
 import "tailwindcss/tailwind.css";
 import { ReactComponent as Mainimg } from "./title_img.svg";
 import { motion } from "framer-motion";
-import { Link } from "react-router-dom";
 import classNames from "classnames";
 import Text from "../components/title_text";
 

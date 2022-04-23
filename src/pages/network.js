@@ -2,7 +2,7 @@ import "./network.css";
 import Card from "../components/card";
 
 import "tailwindcss/tailwind.css";
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 import classNames from "classnames";
 import Footer from "../components/footer";
 
