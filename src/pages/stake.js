@@ -8,10 +8,10 @@ export default function Title() {
   return (
     <>
       <div className="stake_container">
-        <div className="stake_title">
+        <div className={classNames("stake_title", "md:text-6xl text-3xl")}>
           How To <span className="text-[#1C41E7]">Stake</span>
         </div>
-        <div className="text-gray-400 text-base white-space: pre-wrap; text-center">
+        <div className="text-gray-400 text-base text-xs md:text-lg white-space: pre-wrap; text-center">
           Staking increases a validator’s weight, which helps them,
           <br />
           and in return delegators get rewarded.
@@ -19,26 +19,66 @@ export default function Title() {
         <div className="step_container">
           <div className="stake_left">
             <div className="img_container">
-              <div className="stake_img1"></div>
+              <div
+                className={classNames(
+                  "stake_img1",
+                  "md:w-28 md:h-32 w-16 h-20"
+                )}
+              ></div>
             </div>
-            <div className="step_title">Step1</div>
-            <div className="text-gray-400">Get the stake you want</div>
+            <div className={classNames("step_title", "md:text-3xl text-lg")}>
+              Step1
+            </div>
+            <div
+              className={classNames(
+                "step_sub",
+                "text-gray-400 md:text-gray-400 text-xs md:text-lg text-center"
+              )}
+            >
+              Get the stake you want
+            </div>
           </div>
           <div className="stake_center">
             <div className="img_container">
-              <div className="stake_img2"></div>
+              <div
+                className={classNames(
+                  "stake_img2",
+                  "md:w-28 md:h-32 w-20 h-24"
+                )}
+              ></div>
             </div>
-            <div className="step_title">Step2</div>
-            <div className="text-gray-400">
+            <div className={classNames("step_title", "md:text-3xl text-lg")}>
+              Step2
+            </div>
+            <div
+              className={classNames(
+                "step_sub",
+                "text-gray-400 md:text-gray-400 text-xs md:text-lg text-center"
+              )}
+            >
               Proceed with delegation to citism.
             </div>
           </div>
           <div className="stake_right">
             <div className="img_container">
-              <div className="stake_img3"></div>
+              <div
+                className={classNames(
+                  "stake_img3",
+                  "md:w-28 md:h-32 w-16 h-20"
+                )}
+              ></div>
             </div>
-            <div className="step_title">Step3</div>
-            <div className="text-gray-400">Get rewarded or re-stake again.</div>
+            <div className={classNames("step_title", "md:text-3xl text-lg")}>
+              Step3
+            </div>
+            <div
+              className={classNames(
+                "step_sub",
+                "text-gray-400 md:text-gray-400 text-xs md:text-lg text-center"
+              )}
+            >
+              Get rewarded or re-stake again.
+            </div>
           </div>
         </div>
       </div>

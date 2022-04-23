@@ -1,4 +1,3 @@
-
 @property --rotate {
   syntax: "<angle>";
   initial-value: 132deg;
@@ -7,7 +6,7 @@
 
 :root {
   --card-height: calc(var(--card-width) * 1.3);
-  --card-width: 20vh;
+  --card-width: 16vh;
 }
 
 * {
@@ -22,7 +21,6 @@
   justify-content: center;
 }
 
-
 .cardContent {
   display: flex;
   flex-direction: column;
@@ -30,14 +28,20 @@
   align-items: center;
   color: #fff;
   font-size: 0.8em;
-
 }
+
 .cardViewButton {
+  font-size: 0.8rem;
   background-color: #1c41e7;
-  margin-top: 1vh;
-  font-size: 0.9rem;
-  padding: 0.6vh;
-  border-radius: 10px;
+  border-radius: 5px;
+  padding: 7px 10px;
+  width: 3.5rem;
+  height: 1.8rem;
+  margin-top: 1.5rem;
+}
+
+.cardViewButton:hover {
+  background-color: #081ca7;
 }
 
 /* .networkHeaderContent {
@@ -65,7 +69,7 @@
   color: rgb(88 199 250 / 0%);
   /* cursor: pointer; */
   justify-content: center;
-  
+
   /* font-family: cursive; */
 }
 

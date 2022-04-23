@@ -1,4 +1,5 @@
 import "./footer.css";
+import classNames from "classnames";
 
 export default function Footer() {
   return (
@@ -7,15 +8,17 @@ export default function Footer() {
         <div className="footer_container_top">
           <div className="footer_left">
             <div className="footer_title">Network</div>
-            <div className="text-gray-400 text-sm">Medibloc</div>
+            <div className="text-gray-400 md:text-sm text-xs">Medibloc</div>
           </div>
-          <div className="footer_center">
+          <div className={classNames("footer_center", "md:w-1/4 w-28")}>
             <div className="footer_title">Contact Us</div>
-            <div className="text-gray-400 text-sm">admin@citism.dev</div>
+            <div className="text-gray-400 md:text-sm text-xs">
+              admin@citism.dev
+            </div>
           </div>
           <div className="footer_right">
             <div className="footer_title">Social</div>
-            <div className="text-gray-400 text-sm">Discord</div>
+            <div className="text-gray-400 md:text-sm text-xs">Discord</div>
           </div>
         </div>
         <div className="footer_container_bot">

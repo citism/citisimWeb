@@ -10,7 +10,11 @@ export default function Title() {
     <>
       <div className="technology_container">
         <div className="tech_title_container">
-          <div className="technology_title">Technology</div>
+          <div
+            className={classNames("technology_title", "md:text-6xl text-3xl")}
+          >
+            Technology
+          </div>
         </div>
         <div className="tech_container">
           <Dropdown />
