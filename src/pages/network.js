@@ -13,9 +13,7 @@ export default function Network() {
         <div className={classNames("network_title", "md:text-6xl text-3xl")}>
           Network
         </div>
-
         <Card />
-
         <Footer />
       </div>
     </>
