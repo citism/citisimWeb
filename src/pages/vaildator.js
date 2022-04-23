@@ -10,10 +10,15 @@ export default function Title() {
     <>
       <div
         className={
-          "text-white w-screen h-screen flex items-center justify-center"
+          "text-white w-screen h-screen flex items-center justify-center flex-col-reverse md:flex-row"
         }
       >
-        <div className="validator_left">
+        <div
+          className={classNames(
+            "validator_left",
+            "w-10/12 md:w-4/12 h-2/3 md:h-1/2"
+          )}
+        >
           <div
             className={classNames("validator_title", "md:text-6xl text-3xl")}
           >
@@ -29,7 +34,12 @@ export default function Title() {
             total stake.
           </div>
         </div>
-        <div className={classNames("validator_right", "md:shrink-0")}>
+        <div
+          className={classNames(
+            "validator_right",
+            "w-10/12 md:w-4/12 h-2/3 md:h-1/2"
+          )}
+        >
           <NodeAnimation />
         </div>
       </div>
