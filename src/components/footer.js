@@ -12,7 +12,9 @@ export default function Footer() {
               href="https://www.mintscan.io/medibloc/validators/panaceavaloper1gvsgxrcv4uuqgxas5nq538f7hydg46mjx6lvuu"
               target="_blank"
             >
-              <div className="text-gray-400 md:text-sm text-xs">Medibloc</div>
+              <div className="text-gray-400 md:text-sm text-xs hover:text-[#1c41e7]">
+                Medibloc
+              </div>
             </a>
           </div>
           <div className={classNames("footer_center", "md:w-1/4 w-28")}>
