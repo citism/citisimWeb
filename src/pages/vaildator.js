@@ -29,7 +29,7 @@ export default function Title() {
             total stake.
           </div>
         </div>
-        <div className="validator_right">
+        <div className={classNames("validator_right", "md:shrink-0")}>
           <NodeAnimation />
         </div>
       </div>
