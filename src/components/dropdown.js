@@ -21,9 +21,9 @@ export default function Text() {
               onClick={() => toggle(i)}
             >
               <div>{item.title}</div>
-              <span>{selected == i ? "-" : "+"}</span>
+              <span>{selected === i ? "-" : "+"}</span>
             </div>
-            <div className={selected == i ? "content show" : "content"}>
+            <div className={selected === i ? "content show" : "content"}>
               {item.description}
             </div>
           </div>

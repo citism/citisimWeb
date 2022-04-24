@@ -10,12 +10,13 @@ export default function Card() {
       <div class="cardMain">
         <div class="card">
           <div class="cardContent">
-            <img src={mediImg} width="40%" />
+            <img src={mediImg} width="40%" alt="medibloc" />
             <div className="text-m mt-2">Mediblock</div>
 
             <a
               href="https://www.mintscan.io/medibloc/validators/panaceavaloper1gvsgxrcv4uuqgxas5nq538f7hydg46mjx6lvuu"
               target="_blank"
+    rel="noreferrer"
             >
               <motion.div
                 whileTap={{ scale: 0.9 }}

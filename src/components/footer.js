@@ -4,13 +4,14 @@ import classNames from "classnames";
 export default function Footer() {
   return (
     <>
-      <footer className="bg-[#222222] z-50 w-full h-48 mt-auto flex justify-center items-center flex-col">
+      <footer id="footer_intro" className="bg-[#222222] z-50 w-full h-48 mt-auto flex justify-center items-center flex-col">
         <div className="footer_container_top">
           <div className="footer_left">
-            <div className="footer_title">Network</div>
+            <div className="footer_title">Networks</div>
             <a
               href="https://www.mintscan.io/medibloc/validators/panaceavaloper1gvsgxrcv4uuqgxas5nq538f7hydg46mjx6lvuu"
               target="_blank"
+              rel="noreferrer"
             >
               <div className="text-gray-400 md:text-sm text-xs hover:text-[#1c41e7]">
                 Medibloc

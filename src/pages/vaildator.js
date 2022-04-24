@@ -25,9 +25,9 @@ export default function Title() {
             What is <span className="title_acc">validator</span> ?
           </div>
           <div className="text-gray-400 text-base white-space: pre-wrap;">
-            Validators run full nodes, participate in consensus <br />
+            Validators run full nodes, participate in consensus
             by broadcasting votes, commit new blocks to the blockchain,
-            <br /> and participate in governance of the blockchain.
+            and participate in governance of the blockchain.
             <br /> Validators are able to cast votes on behalf of their
             delegators.
             <br /> A validator’s voting power is weighted according to their

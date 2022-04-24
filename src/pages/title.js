@@ -19,7 +19,7 @@ export default function Title() {
             <Text />
             <div className="mb-32 mt-8 text-gray-400 ">
               The citism team believes in decentralization
-              <br /> and contribute to the blockchain network <br /> and, Will
+              and contribute to the blockchain network <br /> and, Will
               participate in many blockchain ecosystems
             </div>
           </div>
@@ -27,8 +27,8 @@ export default function Title() {
             <Mainimg width="100%" height="65%" />
           </div>
         </div>
-        <div className="w-3/4 flex align-center ml-20 ">
-          <a href="https://docs.citism.dev/" target="_blank">
+        <div className="w-3/4 flex align-center ml-5">
+          <a href="#footer_intro">
             <motion.button
               whileTap={{ scale: 0.9 }}
               whileHover={{
@@ -42,7 +42,7 @@ export default function Title() {
               Validator
             </motion.button>
           </a>
-          <a href="https://github.com/citismTeam" target="_blank">
+          <a href="https://github.com/citismTeam" target="_blank" rel="noreferrer" >
             <motion.button
               whileTap={{ scale: 0.9 }}
               whileHover={{

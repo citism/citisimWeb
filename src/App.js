@@ -1,4 +1,4 @@
-import Card from "./components/card";
+// import Card from "./components/card";
 import Navbar from "./components/navbar";
 import Title from "./pages/title";
 import Node from "./pages/vaildator";
@@ -7,7 +7,7 @@ import Technology from "./pages/technology";
 import Network from "./pages/network";
 
 import "tailwindcss/tailwind.css";
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 
 export default function Main() {
   return (
