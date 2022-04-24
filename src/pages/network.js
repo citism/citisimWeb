@@ -11,7 +11,7 @@ export default function Network() {
     <>
       <div className="network_container">
         <div className={classNames("network_title", "md:text-6xl text-3xl")}>
-          Network
+          Networks
         </div>
         <Card />
         <Footer />

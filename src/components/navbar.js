@@ -24,7 +24,7 @@ export default function Navbar() {
       </div>
       <div className="text-sm "></div>
       <motion.div className="text-lg my-3 text-white hover:text-blue-600">
-        <a href="https://github.com/citismTeam" target="_blank">
+        <a href="https://github.com/citismTeam" target="_blank" rel="noreferrer">
           Github
         </a>
       </motion.div>
