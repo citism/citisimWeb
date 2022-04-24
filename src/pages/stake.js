@@ -16,7 +16,7 @@ export default function Title() {
           <br />
           and in return delegators get rewarded.
         </div>
-        <div className="step_container">
+        <div className={classNames("step_container", "bg_animation")}>
           <div className="stake_left">
             <div className="img_container">
               <div
