@@ -49,21 +49,22 @@
 }
 
 .btn_primary {
-  font-size: 1vw;
+  font-size: 1.4vh; 
   background-color: #1c41e7;
+  border: 2px solid #1c41e7;
   border-radius: 10px;
   margin-right: 1vw;
-  padding: 7px 10px 7px 10px;
+  padding: 5px 10px 5px 10px;
   min-width: fit-content;
   min-height: fit-content;
 }
 
 .btn_secondary {
-  font-size: 1vw;
+  font-size: 1.4vh;
   border: 2px solid #1c41e7;
   border-radius: 10px;
   margin-right: 1vw;
-  padding: 7px 10px 7px 10px;
+  padding: 5px 10px 5px 10px;
   min-width: fit-content;
   min-height: fit-content;
 }
