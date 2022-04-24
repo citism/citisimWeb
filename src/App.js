@@ -1,7 +1,7 @@
 // import Card from "./components/card";
 import Navbar from "./components/navbar";
 import Title from "./pages/title";
-import Node from "./pages/vaildator";
+import Node from "./pages/validator";
 import Stake from "./pages/stake";
 import Technology from "./pages/technology";
 import Network from "./pages/network";
