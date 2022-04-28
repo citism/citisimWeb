@@ -1,5 +1,4 @@
 import "./title.css";
-
 import "tailwindcss/tailwind.css";
 import { ReactComponent as Mainimg } from "./title_img.svg";
 import { motion } from "framer-motion";
@@ -42,7 +41,7 @@ export default function Title() {
               Validator
             </motion.button>
           </a>
-          <a href="https://github.com/citismTeam" target="_blank" rel="noreferrer" >
+          <a href="https://docs.citism.dev/" target="_blank" rel="noreferrer" >
             <motion.button
               whileTap={{ scale: 0.9 }}
               whileHover={{
